@@ -6,6 +6,7 @@ public class SwapTwoNumbers {
 		temp = a;
 		a = b;
 		b = temp;
+		System.out.println();
 		System.out.println(a + " " + b);
 	}
 
